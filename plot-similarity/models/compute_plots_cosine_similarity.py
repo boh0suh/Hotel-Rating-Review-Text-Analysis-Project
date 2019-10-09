@@ -88,5 +88,5 @@ plots['similarity score'] = scores
 
 plots = plots[['dossier_id', 'similarity score']]
 
-# file output
+# result file output
 plots.to_csv('../results/movie_plot_similarity_scores.csv', sep='|', header=True, index=False)
