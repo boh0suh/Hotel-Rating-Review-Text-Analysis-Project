@@ -1,2 +1,2 @@
-# text-analysis
-text analysis and comparison on movie plots from multiple sources
+# hotel reviews text analysis project
+Exploring and analyzing hotel review text analysis 
